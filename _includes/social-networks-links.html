@@ -192,18 +192,6 @@
   </li>
 {%- endif -%}
 
-{%- if site.social-network-links.steam -%}
-  <li class="list-inline-item">
-    <a href="https://steamcommunity.com/profiles/{{ site.social-network-links.steam }}" title="Steam">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-steam fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">Steam</span>
-   </a>
-  </li>
-{%- endif -%}
-
 {%- if site.social-network-links.twitch -%}
   <li class="list-inline-item">
     <a href="https://www.twitch.tv/{{ site.social-network-links.twitch }}" title="Twitch">
@@ -262,6 +250,18 @@
       <span class="sr-only">Google Scholar</span>
     </a>
   </li>
+{%- endif -%}
+
+{%- if site.social-network-links.steam -%}
+<li class="list-inline-item">
+  <a href="https://steamcommunity.com/profiles/{{ site.social-network-links.steam }}" title="Steam">
+    <span class="fa-stack fa-lg" aria-hidden="true">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fab fa-steam fa-stack-1x fa-inverse"></i>
+    </span>
+    <span class="sr-only">Steam</span>
+  </a>
+</li>
 {%- endif -%}
 
 {%- if site.social-network-links.patreon -%}
