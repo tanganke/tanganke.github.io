@@ -54,6 +54,7 @@ social-network-links:
   # facebook: deanattali
   github: tanganke
   twitter: tang_anke
+  ORCID: 0000-0002-0576-8153
   # patreon: DeanAttali
   # youtube: c/daattali
 #  medium: yourname
@@ -65,17 +66,16 @@ social-network-links:
 #  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-  steam: tanake11
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  ORCID: 0000-0002-0576-8153
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
+  steam: 76561198315911975
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -88,8 +88,8 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
-  linkedin: false
+  facebook: true
+  linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
@@ -109,7 +109,7 @@ feed_show_tags: true
 post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
@@ -249,7 +249,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Shanghai"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
