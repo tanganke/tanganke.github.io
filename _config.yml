@@ -24,7 +24,7 @@ navbar-links:
   # Resources:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://tanganke.github.io"
+  # Author's home: "https://tanganke.github.io"
 
 ################
 # --- Logo --- #
@@ -65,7 +65,7 @@ social-network-links:
 #  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+  steam: tanake11
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
