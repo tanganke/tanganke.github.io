@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Ph.D student, Wuhan University
+subtitle: Anke Tang (唐安科)
 ---
 
 I'm a Ph.D student at [School of Computer Science, Wuhan University](https://cs.whu.edu.cn/).
