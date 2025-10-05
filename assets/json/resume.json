@@ -49,11 +49,7 @@
     {
       "name": "FusionBench",
       "summary": "A comprehensive benchmark for deep model fusion, providing standardized evaluation metrics and implementations for various model fusion methods. Enables reproducible research in model merging and multi-task learning.",
-      "highlights": [
-        "Comprehensive evaluation framework",
-        "Multiple fusion algorithms implemented",
-        "Open source contribution to ML community"
-      ],
+      "highlights": ["Comprehensive evaluation framework", "Multiple fusion algorithms implemented", "Open source contribution to ML community"],
       "startDate": "2024-05-13",
       "endDate": "Present",
       "url": "https://github.com/tanganke/fusion_bench"
