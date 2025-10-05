@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tanganke.github.io/sitemap.xml
