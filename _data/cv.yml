@@ -1,0 +1,72 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Anke Tang
+    - name: Languages
+      value: English, Chinese
+    - name: Research Interests
+      value: Machine Learning, Model Fusion, Multi-Task Learning, Deep Learning
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Computer Science
+      institution: School of Computer Science, Wuhan University, China
+      year: 2021 - Present
+      description:
+        - Supervised by Prof. Yong Luo
+        - Research focus on model fusion and multi-task learning
+        - Published in top-tier conferences including ICML, ICLR, IJCAI
+        - Published in prestigious journals including TPAMI, IJCV, Nature Machine Intelligence
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/tanganke/fusion_bench">FusionBench</a>
+      year: 2024-now
+      description: A comprehensive benchmark for deep model fusion, providing standardized evaluation metrics and implementations for various model fusion methods.
+
+- title: Research Impact
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - Published in TPAMI (Top-tier AI journal)
+        - Published in IJCV (Top-tier Computer Vision journal)
+        - Co-authored Nature Machine Intelligence paper
+    - year: 2024
+      items:
+        - ICML paper acceptance (Top-tier ML conference)
+        - ICLR paper acceptance (Top-tier AI conference)
+        - Released FusionBench benchmark
+    - year: 2023
+      items:
+        - IJCAI paper acceptance (Top-tier AI conference)
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Model Fusion & Merging
+      items:
+        - Weight-ensembling mixture of experts for multi-task models
+        - Zero-shot sparse mixture of low-rank experts construction
+        - Parameter efficient multi-task model fusion with partial linearization
+    - title: Multi-Task Learning
+      items:
+        - Data-adaptive weight-ensembling for multi-task model fusion
+        - Concrete subspace learning for interference elimination
+        - Heterogeneous model reuse through density estimation
+    - title: Deep Learning & AI Safety
+      items:
+        - Mitigating backdoor effects in multi-task model merging
+        - Efficient Pareto set approximation via mixture of experts
+        - Benchmarking and evaluation of deep model fusion methods
+
+- title: Skills & Expertise
+  type: list
+  contents:
+    - <u>Programming Languages:</u> Python, PyTorch, TensorFlow, CUDA
+    - <u>Research Areas:</u> Model Fusion, Multi-Task Learning, Deep Learning, Transfer Learning
+    - <u>Tools & Frameworks:</u> Git, Linux, Docker, Weights & Biases, Hugging Face
+    - <u>Publications:</u> 15+ papers in top-tier venues (TPAMI, IJCV, NMI, ICML, ICLR, IJCAI)
