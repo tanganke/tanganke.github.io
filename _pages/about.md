@@ -26,4 +26,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Anke Tang is currently pursuing his Ph.D. degree at the School of Computer Science, Wuhan University, under the supervision of Prof. Yong Luo.
+I am currently pursuing my Ph.D. degree at the School of Computer Science, Wuhan University, under the supervision of [Prof. Yong Luo](https://cs.whu.edu.cn/info/1019/2856.htm) and [Assoc. Prof. Shen Li](https://sites.google.com/site/mathshenli/home).
+I received my Bachelor degree at the School of Physics and Technology, Wuhan University in 2020. My research interests include machine learning, transfer learning, and multi-task learning.
