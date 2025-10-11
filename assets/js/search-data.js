@@ -23,7 +23,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{
+        },{id: "news-three-of-our-papers-have-been-accepted-to-neurips-2025-with-two-on-continual-model-merging",
+          title: 'Three of our papers have been accepted to NeurIPS 2025, with two on...',
+          description: "",
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
