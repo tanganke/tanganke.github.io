@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Ph.D Student</a>. Machine Learning. AI Research.
+subtitle: <a href='#'>Research Fellow</a>. Machine Learning. AI Research.
 
 profile:
   align: right
   image: avatar.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>School of Computer Science</p>
-    <p>Wuhan University, China</p>
+    <p>Nanyang Technological University</p>
+    <p>Singapore</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -26,5 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently pursuing my Ph.D. degree at the School of Computer Science, Wuhan University, under the supervision of [Prof. Yong Luo](https://cs.whu.edu.cn/info/1019/2856.htm) and [Assoc. Prof. Shen Li](https://sites.google.com/site/mathshenli/home).
+I am currently a Research Fellow (Postdoctoral Researcher) at Nanyang Technological University (NTU), Singapore.
+I received my Ph.D. degree from the School of Computer Science, Wuhan University, under the supervision of [Prof. Yong Luo](https://cs.whu.edu.cn/info/1019/2856.htm) and [Assoc. Prof. Shen Li](https://sites.google.com/site/mathshenli/home).
 I received my Bachelor degree at the School of Physics and Technology, Wuhan University in 2020. My research interests include machine learning, transfer learning, and multi-task learning.
